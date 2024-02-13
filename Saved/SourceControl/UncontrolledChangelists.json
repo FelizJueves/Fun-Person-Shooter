@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+				"C:/Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Fun-Person-Shooter/Content/CustomContent/Levels/JamieLevel.umap",
+				"C:/Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Fun-Person-Shooter/Content/CustomContent/Levels/MarkLevel.umap",
 				"C:/Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Content/CustomContent/Input/Player_Mapping.uasset",
 				"C:/Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
@@ -29,7 +32,6 @@
 				"C:/Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Content/CustomContent/Vaulting/VaultWidget.uasset",
 				"C:/Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Content/CustomContent/Player/Enemies/TestEnemy.uasset",
 				"C:/Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/ZA/BG2ALFC5RIHXK10E4H4EUI.uasset",
-				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 				"C:/Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Content/CustomContent/Player/Weapons/Ricochet.uasset",
 				"C:/Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HE/4ZYG0PDP5G45SAI82TUNLL.uasset",
 				"C:/Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/FC/D2ANT3SGMANHND7FKZYL5G.uasset",

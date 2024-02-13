@@ -1262,3 +1262,41 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.02.13-10.15.53:183][709]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2024.02.13-10.15.53:195][709]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.02.13-10.17.48:601][507]LogDerivedDataCache: C:/Users/Jamie Dorrens/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:37.908 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20696 files in 20965 folders with total size 11127 MiB.
+[2024.02.13-10.45.22:791][466]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.02.13-10.45.22:792][466]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.02.13-11.04.23:181][977]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.02.13-11.04.40:842][962]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.13-11.04.40:856][962]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.13-11.04.40:863][963]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.13-11.04.43:613][120]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2024.02.13-11.04.43:613][120]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.13-11.04.47:700][354]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.02.13-11.04.47:706][354]LogContentBrowser: Creating deferred item: NewWorld
+[2024.02.13-11.04.47:742][356]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.02.13-11.04.51:891][605]LogContentBrowser: Attempting asset rename: NewWorld -> JamieLevel
+[2024.02.13-11.04.51:897][605]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-11.04.51:897][605]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-11.04.51:912][605]LogContentBrowser: End creating deferred item NewWorld
+[2024.02.13-11.04.55:191][797]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.02.13-11.04.55:196][797]LogContentBrowser: Creating deferred item: NewWorld
+[2024.02.13-11.04.55:207][798]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.02.13-11.04.58:394][989]LogContentBrowser: Attempting asset rename: NewWorld -> MarkLevel
+[2024.02.13-11.04.58:395][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.13-11.04.58:395][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.13-11.04.58:396][989]LogContentBrowser: End creating deferred item NewWorld
+[2024.02.13-11.05.08:502][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.02.13-11.05.08:509][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.13-11.05.08:599][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.02.13-11.05.08:609][241]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.008462 seconds
+[2024.02.13-11.05.08:615][241]LogSerialization: UsePackageTrailer: 'true'
+[2024.02.13-11.05.08:618][241]LogSavePackage: Moving output files for package: /Game/CustomContent/Levels/JamieLevel
+[2024.02.13-11.05.08:618][241]LogSavePackage: Moving '../../../../../../Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Fun-Person-Shooter/Saved/JamieLevel7030646A4D0254518EEBB5B5F65211A3.tmp' to '../../../../../../Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Fun-Person-Shooter/Content/CustomContent/Levels/JamieLevel.umap'
+[2024.02.13-11.05.08:624][241]LogFileHelpers: Saving map 'JamieLevel' took 0.035
+[2024.02.13-11.05.08:633][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.02.13-11.05.08:635][241]LogSavePackage: Moving output files for package: /Game/CustomContent/Levels/MarkLevel
+[2024.02.13-11.05.08:635][241]LogSavePackage: Moving '../../../../../../Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Fun-Person-Shooter/Saved/MarkLevel7B512C6943A5F932A8C93DAB646B9E52.tmp' to '../../../../../../Users/Jamie Dorrens/Documents/Unreal Projects/FunPersonShooter/Fun-Person-Shooter/Content/CustomContent/Levels/MarkLevel.umap'
+[2024.02.13-11.05.08:640][241]LogFileHelpers: Saving map 'MarkLevel' took 0.016
+[2024.02.13-11.05.08:649][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms
+[2024.02.13-11.05.08:653][241]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.13-11.05.08:653][241]LogContentValidation: Display: Validating /Script/Engine.World /Game/CustomContent/Levels/MarkLevel.MarkLevel
+[2024.02.13-11.05.08:653][241]LogContentValidation: Display: Validating /Script/Engine.World /Game/CustomContent/Levels/JamieLevel.JamieLevel
